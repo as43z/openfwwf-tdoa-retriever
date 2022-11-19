@@ -4,11 +4,11 @@ This repository aims to develop a custom kernel module that retrieves data from 
 
 What follows is an identical description of the README from the other repository.
 
-##  Motivations
+## Motivations
 
 New technologies evolve at a very fast pace; introducing newer challenges to the already chaotic ecosystem. Nowadays, IoT and other high-density networks are the focus of the challenges we are facing. In a broad manner, we can define the landscape as precise location demanding (IoT devices, medical use, ...) but no advances on this challenge have arrived. Therefore, we aim to implement a firmware solution for COTS devices.
 
-## Algorithm
+## Algorithm
 
 There is an algorithm developed by Israel Martin and Enrica Zola which propose the addition of a passive-TDOA, listening to packages in a promiscuous mode; calculating the time difference of arrival, enabling the computation of a highly precise measurment of the distance to a reference point.
 
