@@ -1,7 +1,7 @@
 # Makefile
 
 # Target output module
-obj-m += module.o
+obj-m += cb43.o
 
 # Current directory
 PWD := $(CURDIR)
